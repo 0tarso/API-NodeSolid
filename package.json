@@ -1,0 +1,18 @@
+{
+  "name": "api-nodesolid",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "vitest": "^3.0.7"
+  },
+  "dependencies": {
+    "date-fns": "^4.1.0"
+  }
+}
